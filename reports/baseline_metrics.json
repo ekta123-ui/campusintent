@@ -1,0 +1,26 @@
+[
+  {
+    "model": "TF-IDF + Naive Bayes",
+    "val_accuracy": 0.9778645833333334,
+    "val_f1_macro": 0.9777935376344083,
+    "test_accuracy": 0.9817708333333334,
+    "test_f1_macro": 0.9815771191140591,
+    "train_seconds": 0.25
+  },
+  {
+    "model": "TF-IDF + Logistic Regression",
+    "val_accuracy": 0.9895833333333334,
+    "val_f1_macro": 0.989579834166552,
+    "test_accuracy": 0.9934895833333334,
+    "test_f1_macro": 0.9935013195507767,
+    "train_seconds": 1.38
+  },
+  {
+    "model": "TF-IDF + Linear SVM",
+    "val_accuracy": 0.9908854166666666,
+    "val_f1_macro": 0.9908957649406522,
+    "test_accuracy": 0.99609375,
+    "test_f1_macro": 0.9960924779281265,
+    "train_seconds": 0.48
+  }
+]

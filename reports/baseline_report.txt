@@ -1,0 +1,22 @@
+                        precision    recall  f1-score   support
+
+             Admission      1.000     1.000     1.000        48
+                  Fees      1.000     1.000     1.000        48
+          Exam_Results      0.960     1.000     0.980        48
+    Timetable_Schedule      1.000     0.958     0.979        48
+  Hostel_Accommodation      1.000     1.000     1.000        48
+         Transport_Bus      1.000     0.979     0.989        48
+             Placement      1.000     1.000     1.000        48
+           Scholarship      1.000     1.000     1.000        48
+Documents_Certificates      1.000     1.000     1.000        48
+    Faculty_Department      0.980     1.000     0.990        48
+        Cafeteria_Food      1.000     1.000     1.000        48
+   Location_Directions      1.000     1.000     1.000        48
+    Library_Facilities      1.000     1.000     1.000        48
+      Attendance_Leave      1.000     1.000     1.000        48
+     Complaint_Support      1.000     1.000     1.000        48
+          Out_of_Scope      1.000     1.000     1.000        48
+
+              accuracy                          0.996       768
+             macro avg      0.996     0.996     0.996       768
+          weighted avg      0.996     0.996     0.996       768

@@ -1,0 +1,18 @@
+# College information template  (copy this file to ../college_info.md, fill it in, then re-run ingest)
+
+## Contact
+The Admission Office is located at [BUILDING / ROOM]. Phone: [NUMBER]. Email: [EMAIL]. Office hours: [DAYS AND TIMES].
+
+## Fees
+The annual tuition fee for MCA is [AMOUNT] and for BCA is [AMOUNT]. Hostel fee is [AMOUNT] per year. Fees can be paid at [PORTAL / OFFICE] before [DATE].
+
+## Hostel
+Boys' hostel in-time is [TIME]. Girls' hostel in-time is [TIME]. The hostel warden can be contacted at [NUMBER].
+
+## Transport
+College buses run on the following routes: [ROUTE LIST]. Morning pickup starts at [TIME].
+
+## Library
+The library is open [DAYS AND TIMES]. Members can issue [NUMBER] books for [NUMBER] days.
+
+(Write short paragraphs separated by blank lines - each paragraph becomes searchable.)

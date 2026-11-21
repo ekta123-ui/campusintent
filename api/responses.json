@@ -1,0 +1,18 @@
+{
+  "Admission": {"department": "Admission Office", "reply": "This looks like an admission question. The Admission Office can confirm dates, eligibility and the application process for your course."},
+  "Fees": {"department": "Accounts Office", "reply": "This is a fee-related query. Please check the fee notice or contact the Accounts Office for exact amounts and due dates."},
+  "Exam_Results": {"department": "Examination Cell", "reply": "This is about exams or results. The Examination Cell publishes date sheets, admit cards and results."},
+  "Timetable_Schedule": {"department": "Academic Office", "reply": "This is about the timetable or schedule. Please check the academic calendar or ask your class coordinator."},
+  "Hostel_Accommodation": {"department": "Hostel Office", "reply": "This is a hostel query. The Hostel Office or the warden can help with rooms, rules and facilities."},
+  "Transport_Bus": {"department": "Transport Office", "reply": "This is about college transport. The Transport Office handles routes, timings and bus passes."},
+  "Placement": {"department": "Training and Placement Cell", "reply": "This is a placement query. The Training and Placement Cell shares drives, eligibility and preparation support."},
+  "Scholarship": {"department": "Scholarship Cell", "reply": "This is a scholarship query. The Scholarship Cell can confirm eligibility, documents and deadlines."},
+  "Documents_Certificates": {"department": "Student Services Office", "reply": "This is about a certificate or document. Student Services can explain the application process and timelines."},
+  "Faculty_Department": {"department": "Department Office", "reply": "You are asking about a faculty member or department. The relevant department office can share contact details."},
+  "Cafeteria_Food": {"department": "Cafeteria / Mess Management", "reply": "This is about the cafeteria or mess. Cafeteria management can share timings, menu and payment options."},
+  "Location_Directions": {"department": "Reception / Front Desk", "reply": "You are asking about the location or directions. The front desk or the college website has the address and campus map."},
+  "Library_Facilities": {"department": "Library", "reply": "This is a library query. The librarian can help with membership, issue rules and resources."},
+  "Attendance_Leave": {"department": "Class Coordinator / Academic Office", "reply": "This is about attendance or leave. Please contact your class coordinator for leave and attendance rules."},
+  "Complaint_Support": {"department": "IT Helpdesk / Student Grievance Cell", "reply": "This looks like a complaint or support request. The IT Helpdesk or Grievance Cell can help you."},
+  "Out_of_Scope": {"department": null, "reply": "Sorry, I can only help with college-related questions such as admission, fees, exams, hostel, transport and placements."}
+}

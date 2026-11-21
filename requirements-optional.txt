@@ -1,0 +1,10 @@
+# Optional upgrades (the project runs without them using built-in fallbacks).
+# Install individually so one failure does not block the others:
+#   pip install chromadb              -> real vector database (otherwise a built-in numpy store is used)
+#   pip install sentence-transformers -> semantic embeddings (otherwise an offline hashing embedder is used)
+#   pip install anthropic             -> Claude writes the final answer (also set ANTHROPIC_API_KEY)
+#   pip install pypdf                 -> ingest PDF documents into the knowledge base
+chromadb
+sentence-transformers
+anthropic
+pypdf

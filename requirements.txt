@@ -1,0 +1,18 @@
+pandas
+numpy
+scikit-learn
+joblib
+tabulate
+matplotlib
+seaborn
+wordcloud
+nltk
+spacy
+fastapi
+uvicorn[standard]
+httpx
+pytest
+jupyter
+# Only needed for the DistilBERT step (Google Colab already has them):
+torch
+transformers

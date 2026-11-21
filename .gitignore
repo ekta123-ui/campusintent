@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+node_modules/
+frontend/dist/
+models/baseline/*.joblib
+models/distilbert_intent/*
+!models/distilbert_intent/.gitkeep
+.env
+.DS_Store

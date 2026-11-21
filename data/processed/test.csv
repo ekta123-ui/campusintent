@@ -1,0 +1,769 @@
+id,query,intent,intent_id,course,language,style,split
+4106,Are there single occupancy rooms in the hostel?,Hostel_Accommodation,4,,english,formal,test
+4133,Is there a hostel for students doing LL.B internships?,Hostel_Accommodation,4,LLB,english,formal,test
+4144,mca walon ke liye hostel hai kya,Hostel_Accommodation,4,MCA,hinglish,hinglish_casual,test
+4160,Is there a hostel for students doing B.Tech (Web Development) internships?,Hostel_Accommodation,4,B.Tech Web Development,english,formal,test
+4161,How can I reach the college from Alwar by public transport?,Location_Directions,11,,english,formal,test
+4165,is hostel accommodation guaranteed for btech web development students in 2027-28?,Hostel_Accommodation,4,B.Tech Web Development,english,casual,test
+4166,auditorium kahan hai,Location_Directions,11,,hinglish,hinglish_casual,test
+4169,Hodal se college kaise pahunchu?,Location_Directions,11,,hinglish,hinglish,test
+4178,is there a hostel for students doing mca internships,Hostel_Accommodation,4,MCA,english,casual,test
+4187,is thre a separate section for bsc books in the libraary,Library_Facilities,12,B.Sc,english,typo,test
+4189,What is the hostel allotment process for B.Tech AI and ML students?,Hostel_Accommodation,4,B.Tech AI & ML,english,formal,test
+4195,can i use the librarry computers for research?,Library_Facilities,12,,english,typo,test
+4212,how can i reach the college from rewari by public transport,Location_Directions,11,,english,casual,test
+4213,is hostel accommodation guaranteed for btech ai and ml students in 2026?,Hostel_Accommodation,4,B.Tech AI & ML,english,casual,test
+4221,Is the AI lab open to B.Com students?,Location_Directions,11,B.Com,english,formal,test
+4223,can i reeserve a book for statistcs online,Library_Facilities,12,,english,typo,test
+4226,Is the reading hall open during the mid-term exams?,Library_Facilities,12,,english,formal,test
+4227,is there a hostel for sttudents doing btech cyber security intrnships,Hostel_Accommodation,4,B.Tech Cyber Security,english,typo,test
+4231,Is there any hostel for BTech AI ML first-year students?,Hostel_Accommodation,4,B.Tech AI & ML,english,formal,test
+4245,how far is the college from rohtak,Location_Directions,11,,english,casual,test
+4246,what is the hostel allotment process for bteh ai ml students,Hostel_Accommodation,4,B.Tech AI & ML,english,typo,test
+4247,what is the last bus timiing from the campus to ghaziabad?,Transport_Bus,5,,english,typo,test
+4252,Which professor handles Biochemistry?,Faculty_Department,9,,english,formal,test
+4255,does the library have a copy of the medicinal chemistrry textbook?,Library_Facilities,12,,english,typo,test
+4259,is hostel accommodation available for diploma in pharmacy students?,Hostel_Accommodation,4,D.Pharmacy,english,shortform,test
+4263,does the bus run on wednesday for msc students,Transport_Bus,5,M.Sc,english,shortform,test
+4269,How far is the college from Bhiwadi?,Location_Directions,11,,english,formal,test
+4275,can i change my bus stop from patadui to rewari?,Transport_Bus,5,,english,typo,test
+4279,DBMS kaun padhata hai?,Faculty_Department,9,,hinglish,hinglish,test
+4281,Are there any new faculty joining the Pharmacy department?,Faculty_Department,9,,english,formal,test
+4287,who is the mentro assigned to btech web development students,Faculty_Department,9,B.Tech Web Development,english,typo,test
+4291,how many bues run from bhiwadi every day?,Transport_Bus,5,,english,typo,test
+4296,What is the total fee for D.Pharmacy?,Fees,1,D.Pharmacy,english,formal,test
+4298,What is the pick-up time at Ghaziabad for the 9 am lecture?,Transport_Bus,5,,english,formal,test
+4300,Is there a bus stop near Delhi?,Transport_Bus,5,,english,formal,test
+4302,what is the last date to pay the 3rd semester fee,Fees,1,,english,casual,test
+4304,is laundry service provided in the hostel?,Hostel_Accommodation,4,,english,casual,test
+4309,Who is the head of the Student Welfare Office?,Faculty_Department,9,,english,formal,test
+4311,Is hostel accommodation available for Hotel Management students?,Hostel_Accommodation,4,Hotel Management,english,formal,test
+4312,is the collge near bhiwadi?,Location_Directions,11,,english,typo,test
+4318,does the library have books on clod computing?,Library_Facilities,12,,english,typo,test
+4320,is there a hostel for stuednts doing bpharma internships?,Hostel_Accommodation,4,B.Pharmacy,english,typo,test
+4322,who is the mentor assigned to btech ai and ml students?,Faculty_Department,9,B.Tech AI & ML,english,casual,test
+4328,Is there a bus stop near Rohtak?,Transport_Bus,5,,english,formal,test
+4330,does the lirbary have books on python programming?,Library_Facilities,12,,english,typo,test
+4332,can i reserve a book for banking and insurance online,Library_Facilities,12,,english,casual,test
+4334,r electric kettles allowed in the hstl,Hostel_Accommodation,4,,english,shortform,test
+4336,How can I report a maintenance issue in my hostel room?,Hostel_Accommodation,4,,english,formal,test
+4338,is hstl accommodation guaranteed for bsc students in 2026,Hostel_Accommodation,4,B.Sc,english,shortform,test
+4344,badshahpur se college tak bus ka time kya hai,Transport_Bus,5,,hinglish,hinglish_casual,test
+4351,hw much is the exam fee for 6th sem,Fees,1,,english,shortform,test
+4354,what is the fee strucure for msc for 2027,Fees,1,M.Sc,english,typo,test
+4361,How do I apply for re-evaluation of Cloud Computing?,Exam_Results,2,,english,formal,test
+4363,can i get an auto or a cab from pataaudi to the college?,Location_Directions,11,,english,typo,test
+4364,wch gate should i use to reach the computer science n engineering block?,Location_Directions,11,,english,shortform,test
+4365,dwarka se college tak bus ka time kya hai?,Transport_Bus,5,,hinglish,hinglish_casual,test
+4367,Does the bus run on Tuesday for Hotel Management students?,Transport_Bus,5,Hotel Management,english,formal,test
+4369,is there any hostel for btech (cyber security) first-year students?,Hostel_Accommodation,4,B.Tech Cyber Security,english,casual,test
+4370,is the ptahophysiology exam goinng to be open book,Exam_Results,2,,english,typo,test
+4372,is hostel accommodation avlbl for bpharma students?,Hostel_Accommodation,4,B.Pharmacy,english,shortform,test
+4373,is there a separate section for mca books in the lib,Library_Facilities,12,MCA,english,shortform,test
+4376,Is there a college bus from Rohtak on Wednesday?,Transport_Bus,5,,english,formal,test
+4384,Is there any hostel for MCA first-year students?,Hostel_Accommodation,4,MCA,english,formal,test
+4390,where can i download the admiit card for the supplmentary exam,Exam_Results,2,,english,typo,test
+4392,how are internal marks calculated for react js,Exam_Results,2,,english,casual,test
+4393,"My character certificate has a wrong spelling of my name, how can I correct it?",Documents_Certificates,8,,english,formal,test
+4394,is the reading hall open during the supplementary exams?,Library_Facilities,12,,english,casual,test
+4396,can my attendance be corrected if it was marked wrongly in font office operations,Attendance_Leave,13,,english,typo,test
+4397,how do i apply for a supplementary exam in noedjs,Exam_Results,2,,english,typo,test
+4399,how is the stok market doing today?,Out_of_Scope,15,,english,typo,test
+4400,transfer certificate banne mein kitne din lagte hain?,Documents_Certificates,8,,hinglish,hinglish_casual,test
+4401,how do i contact the transport office,Transport_Bus,5,,english,casual,test
+4402,what is the annual fee of mca incluing the hostel,Fees,1,MCA,english,typo,test
+4404,Can I get a fee extension till 28 November?,Fees,1,,english,formal,test
+4405,Can I change my bus stop from Dwarka to Bahadurgarh?,Transport_Bus,5,,english,formal,test
+4406,Can I stay in the hostel during the practical exam break?,Hostel_Accommodation,4,,english,formal,test
+4407,what is the minmum attendance required for bca?,Attendance_Leave,13,BCA,english,typo,test
+4408,How is attendance counted for Cloud Computing practicals?,Attendance_Leave,13,,english,formal,test
+4410,suggest a good restarant in goa,Out_of_Scope,15,,english,typo,test
+4411,hw many buses run from dwarka every day,Transport_Bus,5,,english,shortform,test
+4412,Where can I check my 7th semester marks?,Exam_Results,2,,english,formal,test
+4413,who marks the attendance for the human anatomy and physiology lab,Attendance_Leave,13,,english,casual,test
+4417,my marksheet has a wrong spelling of my name how can i correct it?,Documents_Certificates,8,,english,casual,test
+4421,which journals does the library subscribe to for dpharmacy,Library_Facilities,12,D.Pharmacy,english,casual,test
+4422,college Greater Noida se kitni door hai?,Location_Directions,11,,hinglish,hinglish,test
+4423,farewell ki attendance milegi kya?,Attendance_Leave,13,,hinglish,hinglish,test
+4424,what is the pin code of the colelge,Location_Directions,11,,english,typo,test
+4425,is biometric attendance compulsory,Attendance_Leave,13,,english,casual,test
+4426,who marks the attendance for the computer vision lab,Attendance_Leave,13,,english,casual,test
+4429,Pharmacy ka office kahan hai?,Faculty_Department,9,,hinglish,hinglish,test
+4431,Does the library have a copy of the Digital Forensics textbook?,Library_Facilities,12,,english,formal,test
+4432,What are the working hours of the Hostel Office?,Faculty_Department,9,,english,formal,test
+4434,How many days does it take to get a ID card?,Documents_Certificates,8,,english,formal,test
+4435,Will the attendance of the Pharmaceutical Chemistry class be updated on the portal?,Attendance_Leave,13,,english,formal,test
+4436,Hotel Management walon ke liye hostel hai kya?,Hostel_Accommodation,4,Hotel Management,hinglish,hinglish,test
+4437,Are there any off-campus drive updates for financial analyst?,Placement,6,,english,formal,test
+4439,What was the median package for Hotel Management last year?,Placement,6,Hotel Management,english,formal,test
+4440,Where can I collect my medium of instruction certificate?,Documents_Certificates,8,,english,formal,test
+4441,my attendane is below 53% what can i do,Attendance_Leave,13,,english,typo,test
+4443,Who signs the backlog clearance certificate?,Documents_Certificates,8,,english,formal,test
+4445,what is the procedure to get a provisional certiifcate,Documents_Certificates,8,,english,typo,test
+4447,does the library have books on biochemistry,Library_Facilities,12,,english,casual,test
+4450,whn is the lab session for data structures,Timetable_Schedule,3,,english,shortform,test
+4451,freshers party kab hoga?,Timetable_Schedule,3,,hinglish,hinglish,test
+4453,How do I file a complaint against ragging?,Complaint_Support,14,,english,formal,test
+4454,Is the B.Pharm lab scheduled on Tuesday?,Timetable_Schedule,3,B.Pharmacy,english,formal,test
+4455,is there a sugggestion box for students,Complaint_Support,14,,english,typo,test
+4456,am i eligible for the minority scholarship,Scholarship,7,,english,casual,test
+4457,is there a suggestion box for students?,Complaint_Support,14,,english,casual,test
+4459,the projector in the science classroom is not working whom should i report to,Complaint_Support,14,,english,shortform,test
+4460,is there a sepraate sectin for msc books in the library?,Library_Facilities,12,M.Sc,english,typo,test
+4461,When will the 4th semester results be declared?,Exam_Results,2,,english,formal,test
+4462,whn will the pre-placement talk for cipla be held,Placement,6,,english,shortform,test
+4463,Which route does the college bus take via Bahadurgarh?,Transport_Bus,5,,english,formal,test
+4465,where can i find the acadeimc calendar?,Timetable_Schedule,3,,english,typo,test
+4466,is saal highest package kitna gaya?,Placement,6,,hinglish,hinglish,test
+4467,which office isues the intrenship letter?,Documents_Certificates,8,,english,typo,test
+4468,where can i check the status of my state government scholarship application,Scholarship,7,,english,casual,test
+4470,How can I report a lost item on campus?,Complaint_Support,14,,english,formal,test
+4471,can i meet the exam conroller without an appointmnet,Faculty_Department,9,,english,typo,test
+4472,is the lab fee included in the tuition fee of btech cyber security,Fees,1,B.Tech Cyber Security,english,shortform,test
+4473,Does Sun Pharma hire B.Pharma students?,Placement,6,B.Pharmacy,english,formal,test
+4474,do i need a noc for my passport application,Documents_Certificates,8,,english,casual,test
+4475,when will the counsellling for msc start?,Admission,0,M.Sc,english,typo,test
+4477,is there a shareed auto from greater noida to the collee gate,Location_Directions,11,,english,typo,test
+4478,when is the merit list for btech (web development) going to be released?,Admission,0,B.Tech Web Development,english,casual,test
+4479,family law ki book library mein hai kya?,Library_Facilities,12,,hinglish,hinglish_casual,test
+4480,whihc route does the college bus take via ballabgarh?,Transport_Bus,5,,english,typo,test
+4481,What time does the morning bus leave from Sohna?,Transport_Bus,5,,english,formal,test
+4482,does the lbirary have a copy of the pharmaceutical chemistry textbook,Library_Facilities,12,,english,typo,test
+4483,is the bsc practical or training fee charged separately,Fees,1,B.Sc,english,shortform,test
+4484,wat is the schedule for the alumni meet?,Timetable_Schedule,3,,english,shortform,test
+4485,when will my bonafidde certifciate be ready?,Documents_Certificates,8,,english,typo,test
+4486,is sandwich available in the caneen on friday?,Cafeteria_Food,10,,english,typo,test
+4487,where can i check the status of my central sector scholarship appln,Scholarship,7,,english,shortform,test
+4488,is there a shared auto from pataudi to the college gate?,Location_Directions,11,,english,casual,test
+4489,how do i check my admission status for llb,Admission,0,LLB,english,casual,test
+4490,Who is the prime minister of Peru?,Out_of_Scope,15,,english,formal,test
+4491,Does the mess provide breakfast on Wednesday?,Cafeteria_Food,10,,english,formal,test
+4492,In which building is the Pharmacy department?,Faculty_Department,9,,english,formal,test
+4493,Is there any condonation for shortage of attendance?,Attendance_Leave,13,,english,formal,test
+4494,can i reserve a book for hotel accountancy online,Library_Facilities,12,,english,shortform,test
+4495,kya Palwal ke liye shaam ko bus milegi?,Transport_Bus,5,,hinglish,hinglish,test
+4496,Is a transfer certificate issued to B.Tech in AI & ML students after the 7th semester?,Documents_Certificates,8,B.Tech AI & ML,english,formal,test
+4497,which gate should i use to reach the pharmacy blokc,Location_Directions,11,,english,typo,test
+4498,What is the passing criteria for the BTech Web Development final project?,Exam_Results,2,B.Tech Web Development,english,formal,test
+4499,"The AC in the seminar hall is not working, whom should I inform?",Complaint_Support,14,,english,formal,test
+4500,Is sandwich available in the canteen on Wednesday?,Cafeteria_Food,10,,english,formal,test
+4501,can someone else collect my fee receipt on my behalf?,Documents_Certificates,8,,english,shortform,test
+4502,will i get attendance for the mock trila,Attendance_Leave,13,,english,typo,test
+4503,wheer can i chheck my 5th semester marks?,Exam_Results,2,,english,typo,test
+4504,What are the bus timings from Badshahpur to college?,Transport_Bus,5,,english,formal,test
+4505,which gate should i use to reach the commerce block?,Location_Directions,11,,english,casual,test
+4506,who is my class coordinator for pharacy 8th semester,Faculty_Department,9,B.Pharmacy,english,typo,test
+4507,D.Pharmacy admission form kab tak bharna hai?,Admission,0,D.Pharmacy,hinglish,hinglish,test
+4508,Who marks the attendance for the Machine Learning lab?,Attendance_Leave,13,,english,formal,test
+4509,Who is the prime minister of Germany?,Out_of_Scope,15,,english,formal,test
+4510,course completion certificate banne mein kitne din lagte hain?,Documents_Certificates,8,,hinglish,hinglish_casual,test
+4511,how many days does it take to get a bonaide certificate?,Documents_Certificates,8,,english,typo,test
+4512,will the attendance of the chemistry class be updated on the portal,Attendance_Leave,13,,english,casual,test
+4513,can i get duty leave for participating in the alumni meet,Attendance_Leave,13,,english,casual,test
+4514,Is the canteen open during the end-semester exams?,Cafeteria_Food,10,,english,formal,test
+4515,What is the selection process for BCom?,Admission,0,B.Com,english,formal,test
+4516,how do i book a trian ticket from hyerabad to goa,Out_of_Scope,15,,english,typo,test
+4517,What is the last date to apply for the topper scholarship?,Scholarship,7,,english,formal,test
+4518,can u recommend a good animated movie,Out_of_Scope,15,,english,shortform,test
+4519,kya fees installment mein de sakte hain?,Fees,1,,hinglish,hinglish,test
+4520,how many calories are in fried rice?,Out_of_Scope,15,,english,casual,test
+4521,How do I apply for a marksheet?,Documents_Certificates,8,,english,formal,test
+4522,Is hostel accommodation guaranteed for BHM students in 2027-28?,Hostel_Accommodation,4,Hotel Management,english,formal,test
+4523,Is there a bus stop near Ballabgarh?,Transport_Bus,5,,english,formal,test
+4524,what is the hosstel in-time for giirls,Hostel_Accommodation,4,,english,typo,test
+4525,does the lib have a copy of the cloud computing textbook?,Library_Facilities,12,,english,shortform,test
+4526,what is the price of chhole bhature in the canteen?,Cafeteria_Food,10,,english,typo,test
+4527,What are the top tourist places in Goa?,Out_of_Scope,15,,english,formal,test
+4528,is burger available in the canteen on tuesday?,Cafeteria_Food,10,,english,casual,test
+4529,hw much time does it take to reach the clg from bhiwadi by road,Location_Directions,11,,english,shortform,test
+4530,hw long does the college take to resolve a complaint about canteen hygiene,Complaint_Support,14,,english,shortform,test
+4531,is theer any fee hike this year for bhparm,Fees,1,B.Pharmacy,english,typo,test
+4532,Which office issues the migration certificate?,Documents_Certificates,8,,english,formal,test
+4533,is the fee waiver scheme availlable for 3rd semester students too,Scholarship,7,,english,typo,test
+4534,can i reserve a book for criminnal law onlne,Library_Facilities,12,,english,typo,test
+4535,can i change my bus stop from nuh to bahadurgarh,Transport_Bus,5,,english,casual,test
+4536,on whcih floor is the director's officce,Faculty_Department,9,,english,typo,test
+4537,does dr lal pathlabs hire msc students,Placement,6,M.Sc,english,casual,test
+4538,is sun pharma coming to the campus this year,Placement,6,,english,shortform,test
+4539,wat time is it in kolkata,Out_of_Scope,15,,english,shortform,test
+4540,how is attendance counted for advanced mathematics practicals,Attendance_Leave,13,,english,typo,test
+4541,B.Tech (Web Development) mein attendance kitni chahiye?,Attendance_Leave,13,B.Tech Web Development,hinglish,hinglish,test
+4542,"My portal shows wrong details, how do I get them corrected?",Complaint_Support,14,,english,formal,test
+4543,does the bus run on thursday for llb students,Transport_Bus,5,LLB,english,casual,test
+4544,who resolves complaints related to overcrowded buses?,Complaint_Support,14,,english,shortform,test
+4545,where is the commerce dept building in the campus,Location_Directions,11,,english,shortform,test
+4546,Do absent days during the cultural fest count against my attendance?,Attendance_Leave,13,,english,formal,test
+4547,who teaches business economics for the 3rd semester?,Faculty_Department,9,,english,typo,test
+4548,Is hostel accommodation available for B.Com (Hons) students?,Hostel_Accommodation,4,B.Com,english,formal,test
+4549,What is the schedule for the farewell?,Timetable_Schedule,3,,english,formal,test
+4550,translate good morning into french,Out_of_Scope,15,,english,casual,test
+4551,"The mock hotel room computers are not working, who should I tell?",Complaint_Support,14,,english,formal,test
+4552,is the need-based scholarship renewed every year,Scholarship,7,,english,casual,test
+4553,wat is the procedure to renew my sports quota scholarship,Scholarship,7,,english,shortform,test
+4554,what is the best way to learn tamil?,Out_of_Scope,15,,english,shortform,test
+4555,what is the lunhc beak timing,Timetable_Schedule,3,,english,typo,test
+4556,does the mess provide evening snaks on wednesday,Cafeteria_Food,10,,english,typo,test
+4557,Who resolves complaints related to stray dogs on campus?,Complaint_Support,14,,english,formal,test
+4558,wat is the weather like in hyderabad today,Out_of_Scope,15,,english,shortform,test
+4559,viva exam ki date sheet kab aayegi,Exam_Results,2,,hinglish,hinglish_casual,test
+4560,what is the scehdule for the mock trila,Timetable_Schedule,3,,english,typo,test
+4561,is the data struuctures paper going to be ojective or descriptive,Exam_Results,2,,english,typo,test
+4562,Does the library have books on Computer Networks?,Library_Facilities,12,,english,formal,test
+4563,"My Pharmaceutics lab login is not working, who can help?",Complaint_Support,14,,english,formal,test
+4564,wat documents r needed to get a marksheet,Documents_Certificates,8,,english,shortform,test
+4565,my roll no is missing from the exam list wat should i do,Exam_Results,2,,english,shortform,test
+4566,what is the cut-off for bphrmacy admission,Admission,0,B.Pharmacy,english,typo,test
+4567,is thhere any fee hike this year for bhm?,Fees,1,Hotel Management,english,typo,test
+4568,I want to report water supply in the Commerce block,Complaint_Support,14,,english,formal,test
+4569,whom shold i report to about parking issues?,Complaint_Support,14,,english,typo,test
+4570,does the lib have books on pharmacognosy?,Library_Facilities,12,,english,shortform,test
+4571,where is the grievance box for the hotel management department,Complaint_Support,14,,english,casual,test
+4572,how do i make pacakes at home,Out_of_Scope,15,,english,typo,test
+4573,does the mess provide lunch on monday?,Cafeteria_Food,10,,english,shortform,test
+4574,where is the auditorium locaed,Location_Directions,11,,english,typo,test
+4575,How do I book a train ticket from Pune to Kolkata?,Out_of_Scope,15,,english,formal,test
+4576,Faridabad se college tak bus ka time kya hai?,Transport_Bus,5,,hinglish,hinglish,test
+4577,will there be mock interviews befoer the microsoft drie,Placement,6,,english,typo,test
+4578,What is the placement percentage of B.Sc?,Placement,6,B.Sc,english,formal,test
+4579,is there a shared auto from ballabgarh to the college gate?,Location_Directions,11,,english,casual,test
+4580,i want to report water supply in the law block,Complaint_Support,14,,english,casual,test
+4581,Is hostel accommodation guaranteed for B.Pharma students in 2026?,Hostel_Accommodation,4,B.Pharmacy,english,formal,test
+4582,is thee a late fee fine if i pay after 24 octobber,Fees,1,,english,typo,test
+4583,Friday ko college khula hai kya?,Timetable_Schedule,3,,hinglish,hinglish,test
+4584,how is attendance counted for organic chemistry practicals,Attendance_Leave,13,,english,casual,test
+4585,Does the college provide a cab service from Sohna?,Transport_Bus,5,,english,formal,test
+4586,what is the class timetable for 8th semester hotel management?,Timetable_Schedule,3,Hotel Management,english,casual,test
+4587,Can I get duty leave for participating in the college picnic?,Attendance_Leave,13,,english,formal,test
+4588,does the lib have a copy of the medicinal chemistry textbook,Library_Facilities,12,,english,shortform,test
+4589,Is migration allowed for M.Sc admission from another university?,Admission,0,M.Sc,english,formal,test
+4590,is the college closed on guru nanak jayanti,Timetable_Schedule,3,,english,casual,test
+4591,what is the last date to apply for the toppr scholarship,Scholarship,7,,english,typo,test
+4592,cultural fest ki attendance milegi kya?,Attendance_Leave,13,,hinglish,hinglish,test
+4593,can i stay in the hostel during the internal exam break,Hostel_Accommodation,4,,english,casual,test
+4594,the ai lab computers r not working who should i tell,Complaint_Support,14,,english,shortform,test
+4595,where can i check the status of my topper scholarship appln,Scholarship,7,,english,shortform,test
+4596,can i apply for a migration certificate online,Documents_Certificates,8,,english,casual,test
+4597,is the lab fee included in the tuition fee of btech web development,Fees,1,B.Tech Web Development,english,casual,test
+4598,how can i reeach the college from ballbgarh by public transport?,Location_Directions,11,,english,typo,test
+4599,dr reddy's placement drive kab hai,Placement,6,,hinglish,hinglish_casual,test
+4600,which route does the college bus take via ptaudi,Transport_Bus,5,,english,typo,test
+4601,Republic Day pe college band rahega kya?,Timetable_Schedule,3,,hinglish,hinglish,test
+4602,When do the 7th semester exams start?,Exam_Results,2,,english,formal,test
+4603,BCA ki fees kitni hai?,Fees,1,BCA,hinglish,hinglish,test
+4604,Where can I download the D.Pharma admission form?,Admission,0,D.Pharmacy,english,formal,test
+4605,1st year kab shuru hoga?,Timetable_Schedule,3,,hinglish,hinglish,test
+4606,who won the football match yesterday,Out_of_Scope,15,,english,casual,test
+4607,Eid pe college band rahega kya?,Timetable_Schedule,3,,hinglish,hinglish,test
+4608,basketball ka match kaun jeeta?,Out_of_Scope,15,,hinglish,hinglish,test
+4609,Machine Learning ka lab kab hai?,Timetable_Schedule,3,,hinglish,hinglish,test
+4610,where can i collect my id card,Documents_Certificates,8,,english,casual,test
+4611,whn does the placement drive for apollo pharmacy start?,Placement,6,,english,shortform,test
+4612,is there a campus map available?,Location_Directions,11,,english,casual,test
+4613,Is the lab fee included in the tuition fee of BHM?,Fees,1,Hotel Management,english,formal,test
+4614,what is the hostel allotent prrocess for bca students?,Hostel_Accommodation,4,BCA,english,typo,test
+4615,Are there any new faculty joining the Computer Applications department?,Faculty_Department,9,,english,formal,test
+4616,how long does the college take to resolve a complaint abbout canteen hygiene,Complaint_Support,14,,english,typo,test
+4617,Where is the Computer Applications department building in the campus?,Location_Directions,11,,english,formal,test
+4618,Can I change my bus stop from Palwal to Sohna?,Transport_Bus,5,,english,formal,test
+4619,does the bus run on wednesday for mca students,Transport_Bus,5,MCA,english,casual,test
+4620,hw do i complain about overcrowded buses to the examination cell,Complaint_Support,14,,english,shortform,test
+4621,is hstl accommodation guaranteed for btech in cyber security students in 2027-28,Hostel_Accommodation,4,B.Tech Cyber Security,english,shortform,test
+4622,is diploma in pharmacy approved by the university and the regulatory council,Admission,0,D.Pharmacy,english,shortform,test
+4623,what is the last date to apply for btech cyber security admission?,Admission,0,B.Tech Cyber Security,english,casual,test
+4624,btech web development walon ke liye hostel hai kya?,Hostel_Accommodation,4,B.Tech Web Development,hinglish,hinglish_casual,test
+4625,who won the crickket match yesterday,Out_of_Scope,15,,english,typo,test
+4626,can i apply for dpharmacy admission online,Admission,0,D.Pharmacy,english,casual,test
+4627,can i apply for both msc n bhm,Admission,0,M.Sc,english,shortform,test
+4628,girl child scholarship ke liye apply kaise karu?,Scholarship,7,,hinglish,hinglish,test
+4629,what is the best smartphone under 10000 rupees,Out_of_Scope,15,,english,casual,test
+4630,is the bpharma practical or training fee charged separately,Fees,1,B.Pharmacy,english,casual,test
+4631,what is the pocedure to get a id card,Documents_Certificates,8,,english,typo,test
+4632,"mera ID card kho gaya hai, duplicate kaise banwau?",Documents_Certificates,8,,hinglish,hinglish,test
+4633,1st year ki fees kab bharni hai?,Fees,1,,hinglish,hinglish,test
+4634,Which professor handles Operating Systems?,Faculty_Department,9,,english,formal,test
+4635,How many calories are in idli sambar?,Out_of_Scope,15,,english,formal,test
+4636,is hstl accommodation available for bpharm students,Hostel_Accommodation,4,B.Pharmacy,english,shortform,test
+4637,library kitne baje tak khuli rehti hai?,Library_Facilities,12,,hinglish,hinglish,test
+4638,is the diploma in pharmacy practical or training fee chharged separately?,Fees,1,D.Pharmacy,english,typo,test
+4639,What time does the morning bus leave from Delhi?,Transport_Bus,5,,english,formal,test
+4640,How many students got placed in Dr. Reddy's last year?,Placement,6,,english,formal,test
+4641,what is the attendance rule for bcom industrial training,Attendance_Leave,13,B.Com,english,casual,test
+4642,What is the average package for Diploma in Pharmacy students?,Placement,6,D.Pharmacy,english,formal,test
+4643,Is there a digital library with Computer Networks e-books?,Library_Facilities,12,,english,formal,test
+4644,what is the eligibility criteria for llb,Admission,0,LLB,english,casual,test
+4645,How many rounds are there in the Lemon Tree recruitment process?,Placement,6,,english,formal,test
+4646,wat is the latest news about the ocean,Out_of_Scope,15,,english,shortform,test
+4647,Does the library keep previous year question papers for Constitutional Law?,Library_Facilities,12,,english,formal,test
+4648,how is attendance counted for statistics practicals?,Attendance_Leave,13,,english,shortform,test
+4649,is the hod available on sautrday,Faculty_Department,9,,english,typo,test
+4650,How much amount is given under the girl child scholarship?,Scholarship,7,,english,formal,test
+4651,which companies recruited llb students last year?,Placement,6,LLB,english,casual,test
+4652,how can i check my result online,Exam_Results,2,,english,casual,test
+4653,which companies visit the campus for junior data analyst roles,Placement,6,,english,casual,test
+4654,who sins the dergee certificate?,Documents_Certificates,8,,english,typo,test
+4655,What time is it in Kolkata?,Out_of_Scope,15,,english,formal,test
+4656,what is the mess fee for hsotel students,Fees,1,,english,typo,test
+4657,wch route does the clg bus take via manesar?,Transport_Bus,5,,english,shortform,test
+4658,is there a separate section for bsc books in the library?,Library_Facilities,12,B.Sc,english,casual,test
+4659,where is the grievance box for the computer applications department,Complaint_Support,14,,english,casual,test
+4660,what is the toatl fee for bca?,Fees,1,BCA,english,typo,test
+4661,is dal tdka available in the canteen on friday?,Cafeteria_Food,10,,english,typo,test
+4662,mca ka average package kitna hai?,Placement,6,MCA,hinglish,hinglish_casual,test
+4663,Is spot admission available for B.Tech Cyber Security?,Admission,0,B.Tech Cyber Security,english,formal,test
+4664,how can i upload my resue to the placemet portal,Placement,6,,english,typo,test
+4665,is dpharm approved by the university and the regulatory council,Admission,0,D.Pharmacy,english,casual,test
+4666,what is the attendance rule for mca industrial training,Attendance_Leave,13,MCA,english,casual,test
+4667,are there any off-campus drive updates for data aalyst,Placement,6,,english,typo,test
+4668,is the btech ai ml lab scheduleed on thursday,Timetable_Schedule,3,B.Tech AI & ML,english,typo,test
+4669,is smosa available in the canteen on tuedsay,Cafeteria_Food,10,,english,typo,test
+4670,how much is the regisstration fee for msc?,Fees,1,M.Sc,english,typo,test
+4671,whcih floor is the ai lab on,Location_Directions,11,,english,typo,test
+4672,Can I pay at the canteen using UPI?,Cafeteria_Food,10,,english,formal,test
+4673,What documents are needed to get a medium of instruction certificate?,Documents_Certificates,8,,english,formal,test
+4674,does sun pharma hire bpharm students,Placement,6,B.Pharmacy,english,shortform,test
+4675,Does the college bus come to Rewari in the evening?,Transport_Bus,5,,english,formal,test
+4676,whn will the sports quota scholarship amount be credited to my account,Scholarship,7,,english,shortform,test
+4677,is the admn form for btech (ai & ml) open,Admission,0,B.Tech AI & ML,english,shortform,test
+4678,cold coffee ka rate kya hai canteen mein?,Cafeteria_Food,10,,hinglish,hinglish,test
+4679,how can i conntact the directr of law,Faculty_Department,9,,english,typo,test
+4680,do i need a provisional certi for my passport application?,Documents_Certificates,8,,english,shortform,test
+4681,What is the minimum attendance required for D.Pharm?,Attendance_Leave,13,D.Pharmacy,english,formal,test
+4682,can i chhange my bus stop from ghaziabad to bhiwadi,Transport_Bus,5,,english,typo,test
+4683,will i lose my statte government schloarship if my marks drop below 42%,Scholarship,7,,english,typo,test
+4684,where is the grievance box for the computer applications dept,Complaint_Support,14,,english,shortform,test
+4685,how much amount is gien under the need-based scholarship,Scholarship,7,,english,typo,test
+4686,Which floor is the AI lab on?,Location_Directions,11,,english,formal,test
+4687,Bahadurgarh se college kaise pahunchu?,Location_Directions,11,,hinglish,hinglish,test
+4688,Is there any fee hike this year for Diploma in Pharmacy?,Fees,1,D.Pharmacy,english,formal,test
+4689,Hotel Accountancy kaun padhata hai?,Faculty_Department,9,,hinglish,hinglish,test
+4690,scholarship ki last date kab hai?,Scholarship,7,,hinglish,hinglish_casual,test
+4691,Data Mining kaun padhata hai?,Faculty_Department,9,,hinglish,hinglish,test
+4692,does the hsotel have a reading room,Hostel_Accommodation,4,,english,typo,test
+4693,what skills do i need for a data analyst job through campus placement,Placement,6,,english,casual,test
+4694,which companies recruited btech (web development) students last year,Placement,6,B.Tech Web Development,english,casual,test
+4695,Can you tell me a bedtime story about electric cars?,Out_of_Scope,15,,english,formal,test
+4696,chandigarh mein ghumne ki best jagah kaun si hai,Out_of_Scope,15,,hinglish,hinglish_casual,test
+4697,college Badshahpur se kitni door hai?,Location_Directions,11,,hinglish,hinglish,test
+4698,is sandwich available in the cannteen on wednesday?,Cafeteria_Food,10,,english,typo,test
+4699,How much does a breakfast thali cost in the cafeteria?,Cafeteria_Food,10,,english,formal,test
+4700,am i eligible for the staet government scholarship,Scholarship,7,,english,typo,test
+4701,How do I register for campus placements?,Placement,6,,english,formal,test
+4702,can u recommend a good action movie,Out_of_Scope,15,,english,shortform,test
+4703,dbms ka lab kab hai,Timetable_Schedule,3,,hinglish,hinglish_casual,test
+4704,hw can i reach the college from ghaziabad by public transport,Location_Directions,11,,english,shortform,test
+4705,How can I book a hostel room for 2026-27?,Hostel_Accommodation,4,,english,formal,test
+4706,"My fee payment failed but the money was deducted, what should I do?",Fees,1,,english,formal,test
+4707,can i apply for both llb and bcom,Admission,0,LLB,english,casual,test
+4708,proctor kab milte hain,Faculty_Department,9,,hinglish,hinglish_casual,test
+4709,wat is the selection process for msc,Admission,0,M.Sc,english,shortform,test
+4710,is there a bus for sutdents lving in gurgaon?,Transport_Bus,5,,english,typo,test
+4711,is the ews scholarship open for bca students in 2027,Scholarship,7,BCA,english,casual,test
+4712,Is the merit scholarship open for B.Pharmacy students in 2027-28?,Scholarship,7,B.Pharmacy,english,formal,test
+4713,who handles stdent grievances in the college,Complaint_Support,14,,english,typo,test
+4714,i have an issue with broken benches where should i write,Complaint_Support,14,,english,casual,test
+4715,what is the minimum percentage needed for mca admission,Admission,0,MCA,english,casual,test
+4716,which journals does the library subscribe to for dpharma,Library_Facilities,12,D.Pharmacy,english,casual,test
+4717,who resolves complaiints rlated to overcrowded buses?,Complaint_Support,14,,english,typo,test
+4718,is pwc coming to the campus this year?,Placement,6,,english,casual,test
+4719,Which subjects do I need in 12th to get into B.Com (Hons)?,Admission,0,B.Com,english,formal,test
+4720,is a backlog clearance certi issued to btech cyber security students after the 6th sem,Documents_Certificates,8,B.Tech Cyber Security,english,shortform,test
+4721,is bcom admn based on merit or entrance score,Admission,0,B.Com,english,shortform,test
+4722,wch room is the dbms class in?,Timetable_Schedule,3,,english,shortform,test
+4723,How much time does it take to reach the college from Dwarka by road?,Location_Directions,11,,english,formal,test
+4724,are there any off-campus drive updates for data analyst,Placement,6,,english,casual,test
+4725,how are internal marks calculated for corporate accounting,Exam_Results,2,,english,casual,test
+4726,how long does the college take to resolve a complaaint about ac not working in the classroom?,Complaint_Support,14,,english,typo,test
+4727,Is the Hotel Management practical or training fee charged separately?,Fees,1,Hotel Management,english,formal,test
+4728,Which companies visit the campus for housekeeping supervisor roles?,Placement,6,,english,formal,test
+4729,what is the attendance rule for dilpoma in pharmacy indstrial training,Attendance_Leave,13,D.Pharmacy,english,typo,test
+4730,How do I apply for a transfer certificate?,Documents_Certificates,8,,english,formal,test
+4731,i lost my marksheet hw can i get a duplicate?,Documents_Certificates,8,,english,shortform,test
+4732,r there any scholarships for students with a family income below 5 lakh,Scholarship,7,,english,shortform,test
+4733,organic chemistry ka paper kaisa aayega,Exam_Results,2,,hinglish,hinglish_casual,test
+4734,will there be mock interviews before the cyril aarchand mangaldas drive?,Placement,6,,english,typo,test
+4735,How do I apply for re-evaluation of Law of Torts?,Exam_Results,2,,english,formal,test
+4736,is bus facility avlbl from ghaziabad?,Transport_Bus,5,,english,shortform,test
+4737,How do I apply for a supplementary exam in Food Production?,Exam_Results,2,,english,formal,test
+4738,Is there a digital library with Quantum Mechanics e-books?,Library_Facilities,12,,english,formal,test
+4739,can i get duty leave for participating in the clg picnic,Attendance_Leave,13,,english,shortform,test
+4740,Can I change my course from MSc to B.Tech (AI & ML) after admission?,Admission,0,M.Sc,english,formal,test
+4741,how do i complain about strya dogs on campus to the student welfare office?,Complaint_Support,14,,english,typo,test
+4742,where can i download the admit card for the backlog exam,Exam_Results,2,,english,shortform,test
+4743,who teaches pharmacognosy for the 1st year?,Faculty_Department,9,,english,casual,test
+4744,is the state government sholarship open for msc studnts in 2026,Scholarship,7,M.Sc,english,typo,test
+4745,can you tell me a bedtmie story about dinosaurs,Out_of_Scope,15,,english,typo,test
+4746,is theere a late fee fine if i pay after 3 novemebr,Fees,1,,english,typo,test
+4747,is tere a holday on 14 august?,Timetable_Schedule,3,,english,typo,test
+4748,can i get attendance relaxation for an internship?,Attendance_Leave,13,,english,shortform,test
+4749,how far is the college from manesar,Location_Directions,11,,english,casual,test
+4750,what are the offfice hours of the proctor,Faculty_Department,9,,english,typo,test
+4751,How do I request leave for a family function?,Attendance_Leave,13,,english,formal,test
+4752,does the lib keep previous year question papers for biochemistry?,Library_Facilities,12,,english,shortform,test
+4753,Is there any fee hike this year for B.Pharmacy?,Fees,1,B.Pharmacy,english,formal,test
+4754,How many rounds are there in the HCL recruitment process?,Placement,6,,english,formal,test
+4755,where can i download the btech cyber security amission form?,Admission,0,B.Tech Cyber Security,english,typo,test
+4756,How can I track the status of my complaint about parking issues?,Complaint_Support,14,,english,formal,test
+4757,is the taining restaurant of the hotel management departtment open for lunch,Cafeteria_Food,10,,english,typo,test
+4758,how do i cotact the placment cell,Placement,6,,english,typo,test
+4759,is the llb practical or training fee chagred separately?,Fees,1,LLB,english,typo,test
+4760,how do i complain about canteen hyginee to the examination cell,Complaint_Support,14,,english,typo,test
+4761,is the natural language processing paper going to be objective or descriptive,Exam_Results,2,,english,shortform,test
+4762,what documents are neded for the girl child scholarship?,Scholarship,7,,english,typo,test
+4763,pizza ka rate kya hai canteen mein?,Cafeteria_Food,10,,hinglish,hinglish,test
+4764,the mock hotel room computers r not working who should i tell?,Complaint_Support,14,,english,shortform,test
+4765,what is the latest news about electric cars,Out_of_Scope,15,,english,casual,test
+4766,how are internal marks calcuulated for statistics?,Exam_Results,2,,english,typo,test
+4767,what is the atetndance percentage needed for the finl exam,Attendance_Leave,13,,english,typo,test
+4768,can i aplpy for a migration certificate online?,Documents_Certificates,8,,english,typo,test
+4769,can i change my course from btech cyber security to btech ai and ml after admission?,Admission,0,B.Tech Cyber Security,english,casual,test
+4770,who is the head of the examinnation cell,Faculty_Department,9,,english,typo,test
+4771,how much amout is given under the topper scholarshhip,Scholarship,7,,english,typo,test
+4772,hw can i contact the principal of pharmacy?,Faculty_Department,9,,english,shortform,test
+4773,wat is the email id of the student welfare office,Faculty_Department,9,,english,shortform,test
+4774,wat is the minimum cgpa required for placements,Placement,6,,english,shortform,test
+4775,what is the price of pneer butter masala in the canteen,Cafeteria_Food,10,,english,typo,test
+4776,translate good morinng into korean,Out_of_Scope,15,,english,typo,test
+4777,What is the attendance rule for B.Sc industrial training?,Attendance_Leave,13,B.Sc,english,formal,test
+4778,wat time is breakfast served in the mess,Cafeteria_Food,10,,english,shortform,test
+4779,How do I apply for re-evaluation of Human Anatomy and Physiology?,Exam_Results,2,,english,formal,test
+4780,what is the last date to pay the 1st semester fee?,Fees,1,,english,casual,test
+4781,does the collegge offer a scholarship for toppers in diploma in pharmacy,Scholarship,7,D.Pharmacy,english,typo,test
+4782,Can I meet the exam controller without an appointment?,Faculty_Department,9,,english,formal,test
+4783,how is the cgpa calculated for btch ai ml?,Exam_Results,2,B.Tech AI & ML,english,typo,test
+4784,overpriced canteen items ki complaint kahan karni hai,Complaint_Support,14,,hinglish,hinglish_casual,test
+4785,wat snacks r avlbl in the canteen during the break?,Cafeteria_Food,10,,english,shortform,test
+4786,does the mess provide dinner on saturdya,Cafeteria_Food,10,,english,typo,test
+4787,"My attendance is below 86%, what can I do?",Attendance_Leave,13,,english,formal,test
+4788,Can I borrow reference books for the 6th semester?,Library_Facilities,12,,english,formal,test
+4789,what is the class timetablle for 2nd semester msc,Timetable_Schedule,3,M.Sc,english,typo,test
+4790,what time is it in lucknow?,Out_of_Scope,15,,english,typo,test
+4791,Is there a Google Maps location for the campus?,Location_Directions,11,,english,formal,test
+4792,is theer a food court near the pharmacy building,Cafeteria_Food,10,,english,typo,test
+4793,what is the placement percentage of bhm,Placement,6,Hotel Management,english,casual,test
+4794,Where can I check my 4th semester marks?,Exam_Results,2,,english,formal,test
+4795,what is the hostel check-out procedure during vacations,Hostel_Accommodation,4,,english,casual,test
+4796,Can I change my course from Hotel Management to BCA after admission?,Admission,0,Hotel Management,english,formal,test
+4797,can i channge my course from bsc hotel management to bca after admisssion,Admission,0,Hotel Management,english,typo,test
+4798,How many days does it take to get a marksheet?,Documents_Certificates,8,,english,formal,test
+4799,can i apply for a re-exam if i missed the medicinal cheimstry paper,Exam_Results,2,,english,typo,test
+4800,"mera NOC kho gaya hai, duplicate kaise banwau?",Documents_Certificates,8,,hinglish,hinglish,test
+4801,aaj pune ka mausam kaisa hai?,Out_of_Scope,15,,hinglish,hinglish_casual,test
+4802,Law ka office kahan hai?,Faculty_Department,9,,hinglish,hinglish,test
+4803,What are the bus timings from Pataudi to college?,Transport_Bus,5,,english,formal,test
+4804,when does the industrial training or internnship for mca start,Timetable_Schedule,3,MCA,english,typo,test
+4805,when will the counselling for bpharma start,Admission,0,B.Pharmacy,english,casual,test
+4806,Are there any scholarships for students with a family income below 1 lakh?,Scholarship,7,,english,formal,test
+4807,Is migration allowed for BTech Cyber Security admission from another university?,Admission,0,B.Tech Cyber Security,english,formal,test
+4808,whree can i collect my marksheet?,Documents_Certificates,8,,english,typo,test
+4809,is bus facility available from badshahpur,Transport_Bus,5,,english,casual,test
+4810,can i raise a ticket for stray dogs on campus,Complaint_Support,14,,english,casual,test
+4811,canteen mein pizza milta hai kya?,Cafeteria_Food,10,,hinglish,hinglish,test
+4812,can i reserve a book for business law online?,Library_Facilities,12,,english,shortform,test
+4813,How many rounds are there in the Yes Bank recruitment process?,Placement,6,,english,formal,test
+4814,can somenoe else collect my fee receipt on my behalf,Documents_Certificates,8,,english,typo,test
+4815,How can I contact the program coordinator of Computer Applications?,Faculty_Department,9,,english,formal,test
+4816,wat is the price of airpods,Out_of_Scope,15,,english,shortform,test
+4817,hw do i book a train ticket from mumbai to chandigarh?,Out_of_Scope,15,,english,shortform,test
+4818,where can i get the previous year question papers for advanced mathematics,Exam_Results,2,,english,casual,test
+4819,can i change my hstl room?,Hostel_Accommodation,4,,english,shortform,test
+4820,college bhiwadi se kitni door hai,Location_Directions,11,,hinglish,hinglish_casual,test
+4821,Is the sports quota scholarship open for B.Sc students in 2026-27?,Scholarship,7,B.Sc,english,formal,test
+4822,can i appy for bpharm admission online?,Admission,0,B.Pharmacy,english,typo,test
+4823,does the hostel have a waer cooler?,Hostel_Accommodation,4,,english,typo,test
+4824,Can I meet the librarian without an appointment?,Faculty_Department,9,,english,formal,test
+4825,can i pay the bcom (hons) fee in installments,Fees,1,B.Com,english,casual,test
+4826,is the girl chld scholarship available for 1st semester students too?,Scholarship,7,,english,typo,test
+4827,what time do the afternoon classes end on firday,Timetable_Schedule,3,,english,typo,test
+4828,can i apply for hotel management admission online,Admission,0,Hotel Management,english,casual,test
+4829,what is the pick-up time at gurgaoon for the 9 am leture,Transport_Bus,5,,english,typo,test
+4830,hw do i become a member of the lib,Library_Facilities,12,,english,shortform,test
+4831,What is the one-time admission fee for B.C.A?,Fees,1,BCA,english,formal,test
+4832,What is the fee structure for BSc for 2026?,Fees,1,B.Sc,english,formal,test
+4833,What is the total fee for B.Tech (Cyber Security)?,Fees,1,B.Tech Cyber Security,english,formal,test
+4834,Can my attendance be corrected if it was marked wrongly in Biochemistry?,Attendance_Leave,13,,english,formal,test
+4835,has the practcial exam been postponed?,Exam_Results,2,,english,typo,test
+4836,Can my attendance be corrected if it was marked wrongly in Pharmacology?,Attendance_Leave,13,,english,formal,test
+4837,hw do i reach the college from sohna,Location_Directions,11,,english,shortform,test
+4838,where is the cafeeria located in the campus?,Cafeteria_Food,10,,english,typo,test
+4839,what is the eligibility criteria for zoho camus recrutment,Placement,6,,english,typo,test
+4840,hw many buses run from ballabgarh every day?,Transport_Bus,5,,english,shortform,test
+4841,what is the last bus timing from the camus to badshahpur,Transport_Bus,5,,english,typo,test
+4842,is samosa available in the cantteen on saturday?,Cafeteria_Food,10,,english,typo,test
+4843,B.Tech in Cyber Security ka average package kitna hai?,Placement,6,B.Tech Cyber Security,hinglish,hinglish,test
+4844,What was the median package for LLB last year?,Placement,6,LLB,english,formal,test
+4845,provisional certificate kaise milega?,Documents_Certificates,8,,hinglish,hinglish,test
+4846,will the colelge be open on diwali,Timetable_Schedule,3,,english,typo,test
+4847,On which date does the winter break start?,Timetable_Schedule,3,,english,formal,test
+4848,can i borrow reference books for the 1st semester,Library_Facilities,12,,english,casual,test
+4849,Can I reserve a book for Corporate Accounting online?,Library_Facilities,12,,english,formal,test
+4850,Is the canteen open after 4 pm?,Cafeteria_Food,10,,english,formal,test
+4851,Where can I find the academic calendar?,Timetable_Schedule,3,,english,formal,test
+4852,How long does the college take to resolve a complaint about broken lift?,Complaint_Support,14,,english,formal,test
+4853,what is the date sheet for the mid-term exams?,Exam_Results,2,,english,casual,test
+4854,am i eligible for the sc/st scholarship?,Scholarship,7,,english,shortform,test
+4855,how do i appply for re-evaluation of informaation security?,Exam_Results,2,,english,typo,test
+4856,are there any junior data analyst openings through the placement cell,Placement,6,,english,casual,test
+4857,does the library have a copy of the data structures textbook,Library_Facilities,12,,english,casual,test
+4858,which is the tallest toer in the world?,Out_of_Scope,15,,english,typo,test
+4859,where is the grievance box for the commerce department,Complaint_Support,14,,english,casual,test
+4860,Is there any hostel for B.Tech AI & ML first-year students?,Hostel_Accommodation,4,B.Tech AI & ML,english,formal,test
+4861,library se ek baar mein kitni books mil sakti hain,Library_Facilities,12,,hinglish,hinglish_casual,test
+4862,what is the latest news about climate change,Out_of_Scope,15,,english,casual,test
+4863,are there any bakning associate openings through the placeemnt cell,Placement,6,,english,typo,test
+4864,when will the pre-placement talk for kpmg be held?,Placement,6,,english,casual,test
+4865,axis bank placement drive kab hai,Placement,6,,hinglish,hinglish_casual,test
+4866,how much amount is given uder the central sector schlarship,Scholarship,7,,english,typo,test
+4867,What are the top tourist places in Lucknow?,Out_of_Scope,15,,english,formal,test
+4868,i lost my dgree certficate how can i get a duplicate?,Documents_Certificates,8,,english,typo,test
+4869,Where can I download the application form for a marksheet?,Documents_Certificates,8,,english,formal,test
+4870,does the library keep previous year question papers for law of evidence,Library_Facilities,12,,english,casual,test
+4871,What is the cut-off for BHM admission?,Admission,0,Hotel Management,english,formal,test
+4872,when will the fee waiveer scheme amuont be credited to my account?,Scholarship,7,,english,typo,test
+4873,wat is the attendance percentage needed for the practical exam,Attendance_Leave,13,,english,shortform,test
+4874,does the mess prrovide dinner on wedesday,Cafeteria_Food,10,,english,typo,test
+4875,is there a wi-fi or seating area in the cafe,Cafeteria_Food,10,,english,shortform,test
+4876,tell me a fun fact about electric cars,Out_of_Scope,15,,english,shortform,test
+4877,How do I apply for a supplementary exam in Organic Chemistry?,Exam_Results,2,,english,formal,test
+4878,does the cafeterria serve masala chai?,Cafeteria_Food,10,,english,typo,test
+4879,can i chaange my course from bcom (hons) to mca after admission,Admission,0,B.Com,english,typo,test
+4880,does the lib have a copy of the pharmacognosy textbook?,Library_Facilities,12,,english,shortform,test
+4881,What is the procedure to renew my girl child scholarship?,Scholarship,7,,english,formal,test
+4882,Advanced DBMS kaun padhata hai?,Faculty_Department,9,,hinglish,hinglish,test
+4883,when will the exam cennter for 3rd semester be announced?,Exam_Results,2,,english,typo,test
+4884,wch journals does the lib subscribe to for bca?,Library_Facilities,12,BCA,english,shortform,test
+4885,How far is Chennai from Mumbai?,Out_of_Scope,15,,english,formal,test
+4886,when will the merit scholarship amount be cedited to my account,Scholarship,7,,english,typo,test
+4887,when does the placement drive for syngene start?,Placement,6,,english,casual,test
+4888,my scholarship has not been receeived yet what should i do?,Scholarship,7,,english,typo,test
+4889,what is the one-time admission fee for hotel management,Fees,1,Hotel Management,english,casual,test
+4890,Which room is the Computer Vision class in?,Timetable_Schedule,3,,english,formal,test
+4891,who teaches cloud computing for the 2nd semester,Faculty_Department,9,,english,casual,test
+4892,when does the industrial training or internship for bpharma start,Timetable_Schedule,3,B.Pharmacy,english,casual,test
+4893,wat is the grading system followed in the btech (ai & ml) program?,Exam_Results,2,B.Tech AI & ML,english,shortform,test
+4894,whn will the counselling for mca start?,Admission,0,MCA,english,shortform,test
+4895,where can i download the admit card for the supplementary exam?,Exam_Results,2,,english,shortform,test
+4896,is there any hstl for btech cyber security first-year students,Hostel_Accommodation,4,B.Tech Cyber Security,english,shortform,test
+4897,my collegge email id is not creatd yet how do i get it,Complaint_Support,14,,english,typo,test
+4898,What documents are required at the time of admission to D.Pharma?,Admission,0,D.Pharmacy,english,formal,test
+4899,where can i check the status of my sc/st scholarship application,Scholarship,7,,english,casual,test
+4900,Is hostel accommodation guaranteed for B.Tech (Cyber Security) students in 2026-27?,Hostel_Accommodation,4,B.Tech Cyber Security,english,formal,test
+4901,does the clg provide a cab service from badshahpur,Transport_Bus,5,,english,shortform,test
+4902,Is there a lateral entry option for B.C.A?,Admission,0,BCA,english,formal,test
+4903,Is there a college bus from Ghaziabad on Friday?,Transport_Bus,5,,english,formal,test
+4904,wat time is it in jaipur?,Out_of_Scope,15,,english,shortform,test
+4905,Can my attendance be corrected if it was marked wrongly in Family Law?,Attendance_Leave,13,,english,formal,test
+4906,whom should i report to about lab equipment shortage,Complaint_Support,14,,english,shortform,test
+4907,is the moot court in the same building as the computer science and engineering department,Location_Directions,11,,english,casual,test
+4908,hw far is chandigarh from lucknow?,Out_of_Scope,15,,english,shortform,test
+4909,What is the fee structure for B.Tech (Cyber Security) for 2027?,Fees,1,B.Tech Cyber Security,english,formal,test
+4910,Can someone else collect my provisional certificate on my behalf?,Documents_Certificates,8,,english,formal,test
+4911,is the bsc lab scheduled on tuesday?,Timetable_Schedule,3,B.Sc,english,shortform,test
+4912,"I have an issue with poor lighting in the lab, where should I write?",Complaint_Support,14,,english,formal,test
+4913,What is the total fee for B.Pharma?,Fees,1,B.Pharmacy,english,formal,test
+4914,is migraiton allowed for mca admission from another university?,Admission,0,MCA,english,typo,test
+4915,when does the bsc hootel management admission process begin for 2026-27,Admission,0,Hotel Management,english,typo,test
+4916,is the colege near delhi?,Location_Directions,11,,english,typo,test
+4917,Who teaches Health Education for the 2nd year?,Faculty_Department,9,,english,formal,test
+4918,where is the administrative block located?,Location_Directions,11,,english,casual,test
+4919,Is the topper scholarship renewed every year?,Scholarship,7,,english,formal,test
+4920,Sohna se college tak bus ka time kya hai?,Transport_Bus,5,,hinglish,hinglish,test
+4921,is hstl accommodation guaranteed for btech web development students in 2027-28?,Hostel_Accommodation,4,B.Tech Web Development,english,shortform,test
+4922,who signs the backlog clearance certi?,Documents_Certificates,8,,english,shortform,test
+4923,Is the B.Tech in Cyber Security practical or training fee charged separately?,Fees,1,B.Tech Cyber Security,english,formal,test
+4924,is there a separate section for diploma in pharmacy books in the lib,Library_Facilities,12,D.Pharmacy,english,shortform,test
+4925,wch office issues the attendance certi?,Documents_Certificates,8,,english,shortform,test
+4926,Is there a shared auto from Nuh to the college gate?,Location_Directions,11,,english,formal,test
+4927,is the clg closed on dussehra?,Timetable_Schedule,3,,english,shortform,test
+4928,central sector scholarship renew kaise hoti hai,Scholarship,7,,hinglish,hinglish_casual,test
+4929,can i get an auto or a cab from mansar to the college?,Location_Directions,11,,english,typo,test
+4930,aaj Bengaluru ka mausam kaisa hai?,Out_of_Scope,15,,hinglish,hinglish,test
+4931,hw much does a breakfast thali cost in the cafe,Cafeteria_Food,10,,english,shortform,test
+4932,can i pay my 6th semesster fee by demand draft?,Fees,1,,english,typo,test
+4933,how can i contact the hod of sciece,Faculty_Department,9,,english,typo,test
+4934,can i get duty leave for participating in the mock trial?,Attendance_Leave,13,,english,shortform,test
+4935,when will the ews scholarship amounnt be credited to my account?,Scholarship,7,,english,typo,test
+4936,How do I get my ERP login credentials?,Complaint_Support,14,,english,formal,test
+4937,does the cafeteria serve pasta,Cafeteria_Food,10,,english,casual,test
+4938,how much time does it take to reach the college from manesar by road,Location_Directions,11,,english,casual,test
+4939,Machine Learning ki book library mein hai kya?,Library_Facilities,12,,hinglish,hinglish,test
+4940,where is the admission ofice located?,Location_Directions,11,,english,typo,test
+4941,When will the LL.B viva voce exam be held?,Exam_Results,2,LLB,english,formal,test
+4942,whihc faculy guides the final year projects in law,Faculty_Department,9,,english,typo,test
+4943,What is the best smartphone under 15000 rupees?,Out_of_Scope,15,,english,formal,test
+4944,can i submit an anonymous complaint about noise in the hstl,Complaint_Support,14,,english,shortform,test
+4945,How can I apply for BHM admission in 2027-28?,Admission,0,Hotel Management,english,formal,test
+4946,can i get the ews scholarship aloong with a fee waiver,Scholarship,7,,english,typo,test
+4947,how do i get to the pharmacy lab from the main gate?,Location_Directions,11,,english,shortform,test
+4948,when does the 2nd year begni,Timetable_Schedule,3,,english,typo,test
+4949,character certificate ke liye application kahan dena hai?,Documents_Certificates,8,,hinglish,hinglish_casual,test
+4950,Biochemistry ka re-evaluation kaise karwau?,Exam_Results,2,,hinglish,hinglish,test
+4951,What is the procedure to renew my SC/ST scholarship?,Scholarship,7,,english,formal,test
+4952,wat is the meaning of serendipity?,Out_of_Scope,15,,english,shortform,test
+4953,Is there a penalty for low attendance in 1st year?,Attendance_Leave,13,,english,formal,test
+4954,can i submit my complaint about washroom cleanliness online?,Complaint_Support,14,,english,casual,test
+4955,my attendance is below 52% wat can i do?,Attendance_Leave,13,,english,shortform,test
+4956,will i lose my central sector scholarship if my mars drop below 55%,Scholarship,7,,english,typo,test
+4957,whn will the state government scholarship amount be credited to my account,Scholarship,7,,english,shortform,test
+4958,can i reserve a book for mediicnal chemistry online,Library_Facilities,12,,english,typo,test
+4959,How do I apply for leave for 4 days?,Attendance_Leave,13,,english,formal,test
+4960,How do I make maggi at home?,Out_of_Scope,15,,english,formal,test
+4961,azb & partners mein kitne bacche select hue,Placement,6,,hinglish,hinglish_casual,test
+4962,can i meet the principaal without an appointment?,Faculty_Department,9,,english,typo,test
+4963,how can i take an appointment with the warden?,Faculty_Department,9,,english,casual,test
+4964,when is the mock trial scheduled,Timetable_Schedule,3,,english,casual,test
+4965,how do i contacct the hostel wardden,Hostel_Accommodation,4,,english,typo,test
+4966,what is the minimum percentage neded for dhparma admission?,Admission,0,D.Pharmacy,english,typo,test
+4967,BCA walon ke liye hostel hai kya?,Hostel_Accommodation,4,BCA,hinglish,hinglish,test
+4968,When will the practical exam for Malware Analysis be conducted?,Exam_Results,2,,english,formal,test
+4969,can my attendance be corrected if it was marked wrongly in physics?,Attendance_Leave,13,,english,shortform,test
+4970,who is my clss coordinator for mca 1st semester,Faculty_Department,9,MCA,english,typo,test
+4971,Who resolves complaints related to bus delay?,Complaint_Support,14,,english,formal,test
+4972,what is the price of rjama chawal in the canteen,Cafeteria_Food,10,,english,typo,test
+4973,will the clg be open on christmas,Timetable_Schedule,3,,english,shortform,test
+4974,Who marks the attendance for the Linear Algebra lab?,Attendance_Leave,13,,english,formal,test
+4975,hw do i reset my student portal password?,Complaint_Support,14,,english,shortform,test
+4976,i want to join mca what should i do first,Admission,0,MCA,english,casual,test
+4977,When will the practical exam for Spectroscopy be conducted?,Exam_Results,2,,english,formal,test
+4978,Is the Family Law lecture cancelled today?,Timetable_Schedule,3,,english,formal,test
+4979,can i take admn in bca with 71% marks in 12th?,Admission,0,BCA,english,shortform,test
+4980,what is the last date to apply for bsc adission,Admission,0,B.Sc,english,typo,test
+4981,can u tell me a bedtime story about cryptocurrency,Out_of_Scope,15,,english,shortform,test
+4982,can i meet the director without an appointment,Faculty_Department,9,,english,casual,test
+4983,what is the pin code of the college,Location_Directions,11,,english,casual,test
+4984,what are the ofifce hous of the registrar?,Faculty_Department,9,,english,typo,test
+4985,is mmos available in the canteen on thursady,Cafeteria_Food,10,,english,typo,test
+4986,Are there any new faculty joining the Law department?,Faculty_Department,9,,english,formal,test
+4987,is the analytical chemistry papeer going to be objective or descriptive,Exam_Results,2,,english,typo,test
+4988,what is the fee structure for pharmacy for 2026,Fees,1,B.Pharmacy,english,casual,test
+4989,what is the syllabus for the deep learning internal exam,Exam_Results,2,,english,shortform,test
+4990,wat is the placement percentage of btech (web development),Placement,6,B.Tech Web Development,english,shortform,test
+4991,what is the price of idli samar in the caneen,Cafeteria_Food,10,,english,typo,test
+4992,does the colege offer a scholarship for toppers in bpharma?,Scholarship,7,B.Pharmacy,english,typo,test
+4993,EWS scholarship ke liye apply kaise karu?,Scholarship,7,,hinglish,hinglish,test
+4994,Is the library open on Monday?,Library_Facilities,12,,english,formal,test
+4995,is a backlog clearance certi required for a bank loan?,Documents_Certificates,8,,english,shortform,test
+4996,when is the hackathon scheduled?,Timetable_Schedule,3,,english,casual,test
+4997,how do i apply for a migratoin certificate?,Documents_Certificates,8,,english,typo,test
+4998,is the hod available on tuesday,Faculty_Department,9,,english,casual,test
+4999,does the bus run on wednesday for bpharmacy students,Transport_Bus,5,B.Pharmacy,english,casual,test
+5000,when are the summer vaccations starting?,Timetable_Schedule,3,,english,typo,test
+5001,Is the lab fee included in the tuition fee of BTech AI ML?,Fees,1,B.Tech AI & ML,english,formal,test
+5002,"I lost a library book, what should I do?",Library_Facilities,12,,english,formal,test
+5003,"My attendance is below 58%, what can I do?",Attendance_Leave,13,,english,formal,test
+5004,how are students selceted for the obc schollarship,Scholarship,7,,english,typo,test
+5005,Ghaziabad se college tak bus ka time kya hai?,Transport_Bus,5,,hinglish,hinglish,test
+5006,is the dpharma practical or training fee charged separately,Fees,1,D.Pharmacy,english,casual,test
+5007,what is the prie of chole bhatuer in the canteen?,Cafeteria_Food,10,,english,typo,test
+5008,Is the BSc lab scheduled on Monday?,Timetable_Schedule,3,B.Sc,english,formal,test
+5009,What is the syllabus for the Python Programming supplementary exam?,Exam_Results,2,,english,formal,test
+5010,who handles student grievances in the college?,Complaint_Support,14,,english,casual,test
+5011,is the web technologeis exam goign to be open book?,Exam_Results,2,,english,typo,test
+5012,What is the schedule for the mock trial?,Timetable_Schedule,3,,english,formal,test
+5013,Taxation ka re-evaluation kaise karwau?,Exam_Results,2,,hinglish,hinglish,test
+5014,Does the library have a copy of the Nutrition textbook?,Library_Facilities,12,,english,formal,test
+5015,my attendnce is below 85% what can i do,Attendance_Leave,13,,english,typo,test
+5016,what is the last date to aply for the sc/st scholarship,Scholarship,7,,english,typo,test
+5017,wch room is the company law class in?,Timetable_Schedule,3,,english,shortform,test
+5018,is tehre a googe maps location for the campus,Location_Directions,11,,english,typo,test
+5019,is the lab fee includd in the tuition fee of btch (cyber security),Fees,1,B.Tech Cyber Security,english,typo,test
+5020,Is IBM coming to the campus this year?,Placement,6,,english,formal,test
+5021,How can I see my Hotel Accountancy answer sheet?,Exam_Results,2,,english,formal,test
+5022,How much amount is given under the OBC scholarship?,Scholarship,7,,english,formal,test
+5023,Which faculty guides the final year projects in Computer Science and Engineering?,Faculty_Department,9,,english,formal,test
+5024,has the natural language processing class been rescheduled?,Timetable_Schedule,3,,english,casual,test
+5025,is theere a digital library with software engineering e-books,Library_Facilities,12,,english,typo,test
+5026,What is the one-time admission fee for B.Tech Web Development?,Fees,1,B.Tech Web Development,english,formal,test
+5027,will the attendance of the law of evidence class be updated on the portal?,Attendance_Leave,13,,english,casual,test
+5028,what is the eamil id of the examination cell,Faculty_Department,9,,english,typo,test
+5029,is the clg near ballabgarh?,Location_Directions,11,,english,shortform,test
+5030,is saandwich available in the canteen on wednesday,Cafeteria_Food,10,,english,typo,test
+5031,What are the top tourist places in Delhi?,Out_of_Scope,15,,english,formal,test
+5032,What documents are needed to get a degree certificate?,Documents_Certificates,8,,english,formal,test
+5033,Is the admission form for B.Pharm open?,Admission,0,B.Pharmacy,english,formal,test
+5034,what time is berakfast served in the mess,Cafeteria_Food,10,,english,typo,test
+5035,the ac in the training kitchen is not workking whom should i inform,Complaint_Support,14,,english,typo,test
+5036,Is the canteen open on Thursday?,Cafeteria_Food,10,,english,formal,test
+5037,Which professor handles Software Engineering?,Faculty_Department,9,,english,formal,test
+5038,Apollo Pharmacy placement drive kab hai?,Placement,6,,hinglish,hinglish,test
+5039,can you tell me a bedtime story abut the ocean?,Out_of_Scope,15,,english,typo,test
+5040,how do i get to the cybersecuritty lab from the main gate,Location_Directions,11,,english,typo,test
+5041,noc ke liye application kahan dena hai,Documents_Certificates,8,,hinglish,hinglish_casual,test
+5042,commerce ke hod kaun hain?,Faculty_Department,9,,hinglish,hinglish_casual,test
+5043,What is the passing criteria for the B.Sc final project?,Exam_Results,2,B.Sc,english,formal,test
+5044,is paneer buutter masala available in the canteen on thursday?,Cafeteria_Food,10,,english,typo,test
+5045,wat is the procedure to renew my need-based scholarship,Scholarship,7,,english,shortform,test
+5046,when will the pre-placement talk for dleoitte be held,Placement,6,,english,typo,test
+5047,Can I change my course from BSc to B.Tech in AI & ML after admission?,Admission,0,B.Sc,english,formal,test
+5048,is the college near badshahpur,Location_Directions,11,,english,shortform,test
+5049,is there any bus from gurgaon for the practical batch?,Transport_Bus,5,,english,casual,test
+5050,what are the office housr of the student counsellor,Faculty_Department,9,,english,typo,test
+5051,which companies recruited mca studnts last year,Placement,6,MCA,english,typo,test
+5052,is there a class on tuesday,Timetable_Schedule,3,,english,shortform,test
+5053,Does the bus run on Monday for B.Tech in AI & ML students?,Transport_Bus,5,B.Tech AI & ML,english,formal,test
+5054,What is the price of kheer in the canteen?,Cafeteria_Food,10,,english,formal,test
+5055,Can I keep a laptop and a mini fridge in my hostel room?,Hostel_Accommodation,4,,english,formal,test
+5056,What is the exam pattern for Web Technologies?,Exam_Results,2,,english,formal,test
+5057,is hstl accommodation guaranteed for pharmacy students in 2026-27?,Hostel_Accommodation,4,B.Pharmacy,english,shortform,test
+5058,Am I eligible for the OBC scholarship?,Scholarship,7,,english,formal,test
+5059,is a transfer certi issued to llb students after the 1st sem,Documents_Certificates,8,LLB,english,shortform,test
+5060,who resolves complaints related to washroom cleanliness,Complaint_Support,14,,english,casual,test
+5061,Can I raise a ticket for overcrowded buses?,Complaint_Support,14,,english,formal,test
+5062,what is on the cafe menu today,Cafeteria_Food,10,,english,shortform,test
+5063,Does the library have books on Human Anatomy and Physiology?,Library_Facilities,12,,english,formal,test
+5064,where is the science department located,Faculty_Department,9,,english,casual,test
+5065,my id card does not scan at the computer lab whom shoud i contact?,Complaint_Support,14,,english,typo,test
+5066,what is the last date to apply for bca admission?,Admission,0,BCA,english,casual,test
+5067,What is the pick-up time at Sohna for the 9 am lecture?,Transport_Bus,5,,english,formal,test
+5068,computer applications ke hod kaun hain?,Faculty_Department,9,,hinglish,hinglish_casual,test
+5069,do absent days during the sports day count against my attendance?,Attendance_Leave,13,,english,casual,test
+5070,What is the one-time admission fee for B.Sc?,Fees,1,B.Sc,english,formal,test
+5071,what time do the afternoon classses end on friday?,Timetable_Schedule,3,,english,typo,test
+5072,my attenance is below 63% what can i do,Attendance_Leave,13,,english,typo,test
+5073,how far is the college from noida,Location_Directions,11,,english,casual,test
+5074,how far is the college from nuh,Location_Directions,11,,english,typo,test
+5075,does the bus run on tuesday for btehc in ai & ml students,Transport_Bus,5,B.Tech AI & ML,english,typo,test
+5076,who resolves complaints related to bus dely,Complaint_Support,14,,english,typo,test
+5077,Is there any fee hike this year for B.Tech Cyber Security?,Fees,1,B.Tech Cyber Security,english,formal,test
+5078,the cybersecurity lab computers are not working who should i tell,Complaint_Support,14,,english,casual,test
+5079,does the cafetteria seerve idli sambar,Cafeteria_Food,10,,english,typo,test
+5080,What is the eligibility criteria for Metropolis Healthcare campus recruitment?,Placement,6,,english,formal,test
+5081,is fried rice available in the canteen on wednesday?,Cafeteria_Food,10,,english,casual,test
+5082,Where can I download the application form for a degree certificate?,Documents_Certificates,8,,english,formal,test
+5083,5th semester kab shuru hoga?,Timetable_Schedule,3,,hinglish,hinglish,test
+5084,Is hostel accommodation guaranteed for D.Pharm students in 2026-27?,Hostel_Accommodation,4,D.Pharmacy,english,formal,test
+5085,where can i collect my fee receipt?,Documents_Certificates,8,,english,shortform,test
+5086,when does the 1st semester begin?,Timetable_Schedule,3,,english,casual,test
+5087,will the clg be open on independence day,Timetable_Schedule,3,,english,shortform,test
+5088,Is there a food court near the Commerce building?,Cafeteria_Food,10,,english,formal,test
+5089,is the canteen open on monday,Cafeteria_Food,10,,english,casual,test
+5090,Is masala chai available in the canteen on Friday?,Cafeteria_Food,10,,english,formal,test
+5091,how many sats are available in mca,Admission,0,MCA,english,typo,test
+5092,How many buses run from Rewari every day?,Transport_Bus,5,,english,formal,test
+5093,pizza kaise banate hain?,Out_of_Scope,15,,hinglish,hinglish,test
+5094,what is the attenddance percentage neeeded for the mid-term exam,Attendance_Leave,13,,english,typo,test
+5095,What is the one-time admission fee for LLB?,Fees,1,LLB,english,formal,test
+5096,when will the counselling for bca start,Admission,0,BCA,english,casual,test
+5097,hw much do i have to pay for the bus facility per sem?,Fees,1,,english,shortform,test
+5098,Pharmacology ka re-evaluation kaise karwau?,Exam_Results,2,,hinglish,hinglish,test
+5099,wat are the hstl rules regarding visitors?,Hostel_Accommodation,4,,english,shortform,test
+5100,How do I make cold coffee at home?,Out_of_Scope,15,,english,formal,test
+5101,can i pay my 2nd semester fee by demand draft,Fees,1,,english,casual,test
+5102,is there a hostel for students doing btech in ai & ml internships,Hostel_Accommodation,4,B.Tech AI & ML,english,casual,test
+5103,is there a holiday on 12 aril,Timetable_Schedule,3,,english,typo,test
+5104,degree certificate kaise milega?,Documents_Certificates,8,,hinglish,hinglish,test
+5105,is kheer available in the canteen on tuesday,Cafeteria_Food,10,,english,casual,test
+5106,is the annual day on wednesday or wednesday,Timetable_Schedule,3,,english,shortform,test
+5107,How do I apply for a supplementary exam in Artificial Intelligence?,Exam_Results,2,,english,formal,test
+5108,what is the annual fee of bpharma including the hostel,Fees,1,B.Pharmacy,english,casual,test
+5109,what is the last date to aply for the need-based scholarship?,Scholarship,7,,english,typo,test
+5110,Will the college be open on Eid?,Timetable_Schedule,3,,english,formal,test
+5111,what is the minimum attendance required for btech ai and ml?,Attendance_Leave,13,B.Tech AI & ML,english,casual,test
+5112,"I want to join B.Tech AI and ML, what should I do first?",Admission,0,B.Tech AI & ML,english,formal,test
+5113,Can you recommend a good romantic movie?,Out_of_Scope,15,,english,formal,test
+5114,Is fried rice available in the canteen on Saturday?,Cafeteria_Food,10,,english,formal,test
+5115,when will my noc be ready?,Documents_Certificates,8,,english,typo,test
+5116,Does the cafeteria serve masala chai?,Cafeteria_Food,10,,english,formal,test
+5117,What time does the first lecture start on Thursday?,Timetable_Schedule,3,,english,formal,test
+5118,is there any training for placement preparation?,Placement,6,,english,shortform,test
+5119,Food Production ki book library mein hai kya?,Library_Facilities,12,,hinglish,hinglish,test
+5120,how do i apply for re-evaluation of phrmacognosy,Exam_Results,2,,english,typo,test
