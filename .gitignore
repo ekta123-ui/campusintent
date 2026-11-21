@@ -4,7 +4,6 @@ __pycache__/
 .ipynb_checkpoints/
 node_modules/
 frontend/dist/
-models/baseline/*.joblib
 models/distilbert_intent/*
 !models/distilbert_intent/.gitkeep
 .env
